@@ -1,3 +1,3 @@
 # AI
 ### If you have landed on my AI repository that means you want to try my AI...
-If that is the case go to [mahanhed8s8.github.io/ai]
+If that is the case go to [https://www.mahanhed8s8.github.io/ai]
